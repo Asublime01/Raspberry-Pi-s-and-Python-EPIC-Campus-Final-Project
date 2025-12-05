@@ -72,7 +72,7 @@ With the soil moisture data and pump control in place, we developed a program to
 
 ### Wiring the ADC and Soil Humidity Sensor
 
-#### ***Photo guide is linked it the repository***
+![Wiring Guide](https://github.com/Asublime01/Raspberry-Pi-s-and-Python-Epic-Campus-Final-Project/blob/main/adcChipWiringGuide.gif)
 
 #### **Soil Humidity Sensor**
 - Connect the VCC / V prong to 3.3v or 5v on your Raspberry Pi
